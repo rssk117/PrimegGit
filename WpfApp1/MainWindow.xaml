@@ -14,6 +14,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="98,268,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="98,318,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="445,226,0,0" VerticalAlignment="Top" Height="16" Width="120" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="445,129,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
 
     </Grid>
 </Window>
