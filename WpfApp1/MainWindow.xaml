@@ -10,6 +10,7 @@
         <TextBox HorizontalAlignment="Left" Margin="98,86,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox HorizontalAlignment="Left" Margin="98,120,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="98,157,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="98,217,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
 
     </Grid>
 </Window>
