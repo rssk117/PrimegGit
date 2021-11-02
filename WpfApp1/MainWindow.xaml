@@ -16,8 +16,8 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="321,86,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click1"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="466,320,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="466,320,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="466,320,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="466,320,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="614,185,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Height="17" Width="120" Click="Button_Click"/>
 
     </Grid>
 </Window>
